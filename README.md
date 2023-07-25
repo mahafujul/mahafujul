@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mahafujul
 - 👀 I’m Enthusiastic about Software Development.
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java, JavaScript
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 Reach me at [emonmondal083@gmail.com](mailto:emonmondal083@gmail.com)
 
