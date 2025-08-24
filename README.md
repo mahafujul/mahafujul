@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mahafujul
 - 👀 I’m Enthusiastic about Software Development.
-- 🌱 I’m currently learning MERN Stack
+- 🌱 I’m currently learning Web Technologies and Programming Languages
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 Reach me at [mail2mahafujul@gmail.com](mailto:email2mahafujul@gmail.com)
 
